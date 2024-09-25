@@ -7,6 +7,8 @@ and playlists using the Spotify API. Additionally, it integrates with the Genius
 ## Features
 
 - **Artist Search**: Users can search for an artist by name.
+- ![image](https://github.com/user-attachments/assets/26e65343-fc91-4a84-b2a0-76acd996223d)
+
 - **Artist Information**: Displays artist details such as name, genres, follower count, and images.
 - **Popular Songs**: Lists the top 5 popular tracks by the artist.
 - **Popular Albums**: Displays up to 3 popular albums by the artist.
