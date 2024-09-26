@@ -50,6 +50,9 @@ and playlists using the Spotify API. Additionally, it integrates with the Genius
 1. **Clone the repository:**
 - Download the project
 - You will have to find the CLIENT_ID, CLIENT_SECRET, and REDIRECT_URI through the setting in spotify and spotifyfordevelopers.com
+- pip install Flask
+- pip install python-dotenv
+- pip install requests
 - CLIENT_ID=your_spotify_client_id
 - CLIENT_SECRET=your_spotify_client_secret
 - REDIRECT_URI=http://localhost:8888/callback
